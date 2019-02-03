@@ -21,4 +21,13 @@ How was it created?
 
    httrack polanie.prv.pl
 
+Then prv.pl-injected ads, tracking code and other annoyances have been
+removed::
+
+   cd polanie.prv.pl
+   rm prv_hosting_footer.js prv_site_config_values.js
+   find . -type f -name '*.html' | xargs sed -i 's/<!-- End \/\/]]>.*//g'
+
++ some manual edits
+
 The mirror has been created at 2019-02-01.
