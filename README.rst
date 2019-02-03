@@ -31,3 +31,9 @@ removed::
 + some manual edits
 
 The mirror has been created at 2019-02-01.
+
+How can I use this mirror?
+--------------------------
+
+1. Download the repository (using Git or in a ZIP)
+2. Open ``polanie.prv.pl/index.html``
