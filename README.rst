@@ -1,6 +1,8 @@
 polanie.prv.pl-mirror
 =====================
 
+See https://github.com/jstasiak/polanie-resources for other Polanie resources.
+
 What is this?
 -------------
 
